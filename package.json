@@ -1,5 +1,5 @@
 {
-  "name": "movieql",
+  "name": "movies-graphql",
   "version": "1.0.0",
   "description": "API базы фильмов на GraphQL",
   "main": "index.js",
@@ -23,5 +23,6 @@
     "babel-preset-stage-3": "^6.24.1",
     "graphql-yoga": "^1.18.3",
     "node-fetch": "^2.6.1"
-  }
+  },
+  "devDependencies": {}
 }
